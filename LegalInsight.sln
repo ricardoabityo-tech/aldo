@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012 / 2013 / 2015 / 2017 / 2019 / 2022
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegalInsight", "LegalInsight.csproj", "{7A5B8749-3665-4B89-8C84-9FD7308F41A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5B8749-3665-4B89-8C84-9FD7308F41A2}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{7A5B8749-3665-4B89-8C84-9FD7308F41A2}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{7A5B8749-3665-4B89-8C84-9FD7308F41A2}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{7A5B8749-3665-4B89-8C84-9FD7308F41A2}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
